@@ -27,13 +27,13 @@ The focus was not just learning theory, but writing **clean, modular, and profes
 
 ## 📊 Key Visualizations
 
-| Rating Distribution | Pricing Strategy |
+| Curve Fitting | Model Performance |
 |--------------------|----------------|
 | ![](img/Linear_Regression_Curve_Fitting.png) | ![](img/XGBoost_Model.png) |
 
-| Heatmap | Wordcloud |
+| Scaled Data Distribution | Multiple Skewness Representation |
 |---------|-----------|
-| ![](img/Scaled_Data_Distribution.png) | ![](img/Multiple_Skewness_Graph.png) |
+| ![](img/Scaled_Data_Distribution.png)![](img/Model_Comparision.png) | ![](img/Multiple_Skewness_Graph.png) |
 
 
 ---
